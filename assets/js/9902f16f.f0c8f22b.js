@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcoffee_delivery_docs=self.webpackChunkcoffee_delivery_docs||[]).push([[7218],{8182:e=>{e.exports=JSON.parse('{"permalink":"/coffee-delivery-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
